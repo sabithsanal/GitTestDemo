@@ -29,6 +29,11 @@ public class LoginApplicationTest extends BaseTest {
 		System.out.println(data3);
 		
 	}
+	
+	public void testSample()
+	{
+		System.out.println("Hello");
+	}
 		
 
 	
