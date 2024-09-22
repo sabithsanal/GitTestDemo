@@ -18,5 +18,9 @@ public class ProductCatalogueTest extends LoginApplicationTest{
 		driver.close();
 	}
 	
+	@Test
+	public void testSample2() {
+		System.out.println("slave1");
+	}
 	
 }
